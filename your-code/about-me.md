@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Who am I
 
 * Where are you from?
