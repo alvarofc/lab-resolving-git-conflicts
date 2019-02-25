@@ -1,8 +1,5 @@
 <<<<<<< HEAD
 # Who am I
-=======
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra laoreet lorem et dapibus. Integer auctor dignissim egestas. Ut id purus holi, I'm creating a conflict. Pellentesque imperdiet lacus in libero laoreet, at tempus felis tristique. Cras fermentum erat a dui vulputate gravida. Nulla aliquet nisi interdum nulla pretium, ac vestibulum diam congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Phasellus lacus risus, sodales vitae viverra quis, maximus ac ipsum. Sed consequat viverra mattis. Curabitur iaculis varius mollis.
->>>>>>> 1b4edc205993a54e641b829af13a3c1e5d9c7edf
 
 * Where are you from?
 I was born in Mahón, Menorca but I am currently living in Palma, Mallorca
